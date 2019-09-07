@@ -7,7 +7,7 @@
     android:background="@drawable/ware"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".ZYActivity">
+    tools:context=".RegisterActivity">
 
     <TextView
         android:layout_width="wrap_content"
@@ -99,6 +99,5 @@
             android:text="@string/bt_bos"/>
 
     </LinearLayout>
-
 
 </LinearLayout>
