@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/NOActionBar">
-        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".TopActivity"></activity>
+        <activity android:name=".MySetActivity" />
+        <activity android:name=".RegisterActivity" />
         <activity android:name=".ZYActivity" />
         <activity android:name=".SplashActivity">
             <intent-filter>
